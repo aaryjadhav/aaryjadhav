@@ -1,5 +1,5 @@
 # Hello 👋, I'm Aary Jadhav
-### Entry-Level Data Analyst
+### Entry-Level Data Analyst and a Casual Developer
 # 💫 About Me:
 Entry-Level Data Analyst<br>Entry-level Analyst with hands-on experience in data analysis, reporting, and dashboarding, supported by academic training in Artificial Intelligence and Machine Learning. Skilled in Python, SQL, Excel, and Power BI for data cleaning, exploratory data analysis (EDA), KPI tracking, and data visualization. Interested in solving business problems through data-driven insights.
 
