@@ -1,26 +1,172 @@
-# Hello 👋, I'm Aary Jadhav
-### Entry-Level Data Analyst and a Casual Developer
-# 💫 About Me:
-Entry-Level Data Analyst<br>Entry-level Analyst with hands-on experience in data analysis, reporting, and dashboarding, supported by academic training in Artificial Intelligence and Machine Learning. Skilled in Python, SQL, Excel, and Power BI for data cleaning, exploratory data analysis (EDA), KPI tracking, and data visualization. Interested in solving business problems through data-driven insights.
+<div align="center">
 
+# Hi there, I'm Aary Jadhav 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gorggaming/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/aary-jadhav-700b21236/](https://www.linkedin.com/in/aary-jadhav-700b21236/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aary.jadhav18@gmail.com) 
+### 🚀 Data Analyst | AI & ML Engineer | Business Intelligence Enthusiast
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaryjadhav&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aaryjadhav&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryjadhav&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Turning+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Python;Artificial+Intelligence+%26+Machine+Learning;Always+Learning+Something+New"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aaryjadhav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aaryjadhav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+🎓 Final Year B.E. Artificial Intelligence & Machine Learning Student
+
+📊 Passionate about Data Analytics, Business Intelligence and Machine Learning
+
+📈 Skilled in transforming raw datasets into interactive dashboards and actionable insights
+
+💻 Experienced with SQL, Python, Excel, Power BI and Data Visualization
+
+🚀 Currently building portfolio projects focused on real-world business analytics
+
+🌱 Currently learning
+
+- Advanced Power BI
+- Data Warehousing
+- Business Analytics
+- Azure Data Fundamentals
+
+---
+
+# 🚀 Tech Stack
+
+### Data Analytics
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva)
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop)
+
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=AdobePremierePro)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaryjadhav&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryjadhav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="700" src="https://streak-stats.demolab.com?user=aaryjadhav&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryjadhav&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📂 Featured Projects
+
+### 📊 Ola Booking Analysis Dashboard
+
+Power BI dashboard analyzing
+
+- Booking Trends
+- Cancellation Analysis
+- Revenue KPIs
+- Customer Insights
+- Driver Performance
+
+---
+
+### 🏥 Hospital Analytics Dashboard
+
+Interactive Power BI Dashboard featuring
+
+- Patient Admission Trends
+- Revenue Analysis
+- Bed Occupancy
+- Doctor Performance
+- Department KPIs
+
+---
+
+### 🛒 E-Commerce Analytics
+
+Business Intelligence Dashboard including
+
+- Sales Analysis
+- Customer Segmentation
+- Product Performance
+- Profitability Analysis
+
+---
+
+# 🎯 Currently Working On
+
+📌 Advanced Power BI Dashboards
+
+📌 SQL Case Studies
+
+📌 Python Data Analysis Projects
+
+📌 Business Analytics Portfolio
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:aary.jadhav18@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aary-jadhav-700b21236/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/gorggaming/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=aaryjadhav&style=for-the-badge&color=blue)
+
+### ⭐ Thanks for visiting my profile!
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+
+</div>
