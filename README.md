@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Aary Jadhav — Data · Design · Code" />
+<img src="banner.svg" width="100%" alt="Aary Jadhav — Data · Design · Code" />
 
 <a href="https://aary.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=720&height=48&lines=Hi+%F0%9F%91%8B%2C+I'm+Aary;Data+analyst+%C3%97+product+builder;Dashboards+that+answer+questions+fast;Currently+building+Veylora+%26+BiZos+%F0%9F%9A%80;Open+to+collaborations+%E2%9C%A8" alt="Typing animation" />
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=flat-square&color=a78bfa&labelColor=0d1117" alt="Followers" />
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=flat-square&color=22d3ee&labelColor=0d1117" alt="Stars" />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -45,7 +45,7 @@ const aary = {
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 🧰 Toolkit
 
@@ -57,7 +57,7 @@ const aary = {
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 🚀 Featured Work
 
@@ -80,7 +80,7 @@ const aary = {
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 📊 Stats
 
@@ -97,7 +97,7 @@ const aary = {
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="divider.svg" width="100%" alt="" /></div>
 
 ## 🐍 Contribution Snake
 
